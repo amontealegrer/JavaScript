@@ -1,4 +1,4 @@
 let message;
-message = 'Hola!';
+message = 'Hola! Estudiantes';
 
 console.log(message); // muestra el contenido de la variablecls
