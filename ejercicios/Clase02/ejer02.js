@@ -29,10 +29,6 @@ let nombre = "Ana Victoria";
 console.log(nombre);
 */
 
-let edad = 16;
 
-if (edad >= 18){
-    console.log("La persona es Mayor de Edad");
-}else{
-    console.log("la persona es Menor de Edad");
-}
+
+
