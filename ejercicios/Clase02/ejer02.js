@@ -29,6 +29,44 @@ let nombre = "Ana Victoria";
 console.log(nombre);
 */
 
+/*
+function saludar(){
+    console.log("Hola como estas, Bienvenido a la comunidad DevSenior");
+}
 
+function saludar2(nombre){
+    console.log("Hola como estas, ",nombre, "Bienvenido a la comunidad DevSenior");
+}
 
+saludar();
+saludar2("Alexander");
+*/
 
+/*
+//Declar una function con expresión de funcion
+
+const suma = function(a, b){
+    return a + b;
+}
+
+//usamos la función
+let resultado = suma(5,7);
+console.log("El resultado es: ", resultado); // salida es 12
+
+*/
+
+/*
+const x = () => {
+    console.log("Bievenido Alexander a la magia de JavaScript");
+}
+
+x();
+
+const x2 = (nombre) =>{
+    return `!Hola, ${nombre}¡ me alegra verte usando funciones flecha.` 
+}
+
+// ejemplo de uso de la función
+const mensaje = x2("Alexander");
+console.log(mensaje);
+*/
