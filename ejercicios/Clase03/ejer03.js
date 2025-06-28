@@ -85,12 +85,27 @@ for (let i = 0; i < productos.length; i++) { // 0, 1, 2, 3
 
 */
 
+/*
 let contador = 1;
 
 do {
     console.log("Iteracción número: " + contador);
     contador++;
-} while (contador <= 5);
+} while (contador <= 20);
 
+*/
+
+
+//lista de items
+const items = [
+    {ref: "Mouse", color:"negro"},
+    {ref: "Keyboard", color:"White"},
+    {ref: "Pad Mouse", color:"yellow"}
+]
+
+// usamos forEach para recorrer el array de objetos llamado items
+items.forEach((i)=> {
+    console.log(`Item: ${i.ref}, Color: ${i.color}`);
+});
 
 

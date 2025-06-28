@@ -1,0 +1,55 @@
+body{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: left;
+
+}
+
+img{
+    height: 100px;
+    width: 150px;
+}
+
+.p1{
+    background-color: black;
+}
+
+.p1 h1{
+    color: white;
+}
+
+.p1 p{
+    color: white;
+}
+
+.p2{
+    background-color: red;
+}
+
+.p2 h1 {
+    color:white
+}
+
+.p2 p{
+    color:yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p3 p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+button{
+    color: brown;
+    background-color: white;
+    border: none;
+}
+
+.botonUno{
+    margin-top: 30px;
+    margin-left: 250px;
+}
